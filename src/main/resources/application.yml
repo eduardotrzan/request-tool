@@ -1,0 +1,10 @@
+config:
+  username: etrzan
+  token: ABC
+  repoLabels:
+  - name: Bug
+    color: e11d21
+  - name: LGTM
+    color: '009800'
+  - name: Need Checking
+    color: fbca04
